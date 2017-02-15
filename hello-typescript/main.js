@@ -18,3 +18,8 @@ var Matematica = (function () {
     };
     return Matematica;
 }());
+
+
+//TS - tipagem de variavel
+var n1 = 'variavel valor';
+n1 = 4;
